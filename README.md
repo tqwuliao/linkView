@@ -4,5 +4,8 @@
 ## 数据集
 人物关系
 
+## 依赖
+Paper.js
+
 ## 浏览
 ![test](./display.jpg)
